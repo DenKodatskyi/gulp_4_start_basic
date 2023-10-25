@@ -1,0 +1,2 @@
+In console write:
+npm i
